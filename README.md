@@ -1,7 +1,8 @@
 # leecode
 刷题记录
 - 题库来自 [力扣刷题攻略](https://github.com/youngyangyang04/leetcode-master)
-##  数组 2/7
+##  数组 0/7 
+- 6月7日 
 ##  链表 0/9
 ## 	哈希表 0/10
 ## 	字符串 0/8
